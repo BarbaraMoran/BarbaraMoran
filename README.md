@@ -6,10 +6,11 @@
 In the last months I've been studying at the [Adalab bootcamp](https://adalab.es/cursos-desarrollo-web "Adalab's Homepage"), 
 where I've learnt the **main technologies** to start my way as a Front End Developer:
 
-- 🌠 HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap
+
 - 🌠 JavaScript (ES6) and third-party web services (APIs)
+- 🌠 Creation of SPAs with React 
+- 🌠 HTML5, CSS3, Flexbox, CSS Grid, SASS
 - 🌠 Version control with Git
-- 🌠 Creation of SPAs with React
 - 🌠 Basic knowledge of APIs and back-end programming: applications with Node JS, Express and SQL
 
 
