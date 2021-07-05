@@ -1,16 +1,21 @@
-### Hi there 👋
 
-<!--
-**BarbaraMoran/BarbaraMoran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://i.postimg.cc/kM0tvpmD/descarga.png"/>
 
-Here are some ideas to get you started:
+...and I really enjoy coding! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the last months I've been studying at the [Adalab bootcamp](https://adalab.es/cursos-desarrollo-web "Adalab's Homepage"), 
+where I've learnt the main technologies to start my way as a Front End Developer:
+
+- 🌠 HTML5, CSS3, Flexbox, CSS Grid, SASS, Bootstrap
+- 🌠 JavaScript (ES6) and third-party web services (APIs)
+- 🌠 Version control with Git
+- 🌠 Creation of SPAs with React
+- 🌠 Basic knowledge of APIs and back-end programming: applications with Node JS, Express and SQL
+
+
+💜 I am currently working on a personal React project based on traditional memory card games to make female punk pioneers visible (I am a punk singer myself 😎).
+With this project I hope to test my knowledge and learn how to develop new functionalities. 
+
+You can learn more about me on [Twitter](https://twitter.com/BarbsMoran) and [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0)
+
+Thanks!!!!!
