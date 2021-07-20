@@ -3,9 +3,6 @@
 
 ...and I really enjoy coding! 
 
-In the last months I've been studying at the [Adalab bootcamp](https://adalab.es/cursos-desarrollo-web "Adalab's Homepage"), 
-where I've learnt the **main technologies** to start my way as a Front End Developer:
-
 
 - 🌠 JavaScript (ES6) and third-party web services (APIs)
 - 🌠 Creation of SPAs with React 
