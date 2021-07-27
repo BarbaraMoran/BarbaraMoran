@@ -11,8 +11,8 @@
 - 🌠 Basic knowledge of APIs and back-end programming: applications with Node JS, Express and SQL
 
 
-💜 I am currently working on a [**personal React project inspired by traditional memory card games**](https://github.com/BarbaraMoran/girls-invented-punk), in order to make female punk pioneers visible (I am a punk singer myself 😎).
-With this project I hope to test my knowledge and learn how to develop new functionalities. 🤓
+💜 I am currently working on a [**React project inspired by traditional memory card games**](https://github.com/BarbaraMoran/girls-invented-punk), in order to make female punk pioneers visible (I am a punk singer myself 😎).
+I also hope to test my knowledge and learn to develop new functionalities. 🤓
 
 🔥 You can learn more about me on [Twitter](https://twitter.com/BarbsMoran) and [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0)
 
