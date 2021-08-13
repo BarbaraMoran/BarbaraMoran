@@ -40,8 +40,6 @@ I also hope to test my knowledge and learn to develop new functionalities. 🤓
 
 <img align="left" alt="Zeplin" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/zeplin/zeplin.png" />
 
-<img align="left" alt="Trello" width="35px" src="https://img.icons8.com/color/452/trello.png" />
-
 <img align="left" alt="Slack" width="30px" src="https://img.icons8.com/color/452/slack-new.png" />
 <br>
 <br>
