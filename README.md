@@ -46,5 +46,5 @@ I also hope to test my knowledge and learn to develop new functionalities. 🤓
 <br>
 <br>
 
-🔥 You can you can get to know me better on [Twitter](https://twitter.com/BarbsMoran) and [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0)
+🔥 You can get to know me better on [Twitter](https://twitter.com/BarbsMoran) and [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0)
 
