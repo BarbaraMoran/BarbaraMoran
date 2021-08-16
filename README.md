@@ -3,7 +3,7 @@
 
 ...and I really enjoy coding! 
 
-💜 I am currently working on a [**React project inspired by traditional memory card games**](https://github.com/BarbaraMoran/girls-invented-punk), in order to make female punk pioneers visible (I am a punk singer myself 😎).
+💜 I am currently working on a [**React project called "Women invented punk"**](https://github.com/BarbaraMoran/girls-invented-punk), in order to make female punk pioneers visible (I am a punk singer myself 😎).
 I also hope to test my knowledge and learn to develop new functionalities. 🤓
 
 #### Technologies: 
