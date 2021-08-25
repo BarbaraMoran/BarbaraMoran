@@ -3,8 +3,7 @@
 
 ...and I really enjoy coding! 
 
-💜 I am currently working on a [**personal project ("Girls invented punk")**](https://github.com/BarbaraMoran/girls-invented-punk), in order to make female punk pioneers visible.
-I also hope to test my knowledge and learn to develop new features. 🤓
+💜 My last project is ["Girls invented punk"](https://github.com/BarbaraMoran/girls-invented-punk)
 
 #### Technologies: 
 
