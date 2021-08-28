@@ -3,7 +3,9 @@
 
 ...and I really enjoy coding! 
 
-💜 My last project is ["Girls invented punk"](https://github.com/BarbaraMoran/girls-invented-punk)
+💜 I just finished ["Girls invented punk"](https://github.com/BarbaraMoran/girls-invented-punk), a website about the pioneer women of punk where you can learn by playing.<br>
+📚 I'm currently learning **DOCKER**.
+
 
 #### Technologies: 
 
