@@ -47,5 +47,6 @@
 <br>
 <br>
 
-🔥 You can get to know me better on [Twitter](https://twitter.com/BarbsMoran) and [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0)
+🔥Do you want to know me better? Visit my [Twitter](https://twitter.com/BarbsMoran) and my [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0) <br>
+📧 You can also send me an email: barbaramoranrr@gmail.com
 
