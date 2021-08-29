@@ -1,7 +1,6 @@
 
 <img src="https://i.postimg.cc/kXcyDYNM/githubheader.png"/>
 
-...and I really enjoy coding! 
 
 💜 I just finished ["Girls invented punk"](https://github.com/BarbaraMoran/girls-invented-punk), a website about the pioneer women of punk where you can learn by playing.<br>
 📚 I'm currently learning **DOCKER**.
