@@ -46,6 +46,6 @@
 <br>
 <br>
 
-🔥 Visit my [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0) <br>
-📧 You can also send me an email: barbaramoranrr@gmail.com
+🔥 My [Linkedin](https://www.linkedin.com/in/b%C3%A1rbara-m-728b72b0) <br>
+📧 My email: barbaramoranrr@gmail.com
 
