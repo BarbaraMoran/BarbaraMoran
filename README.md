@@ -3,7 +3,7 @@
 
 
 💜 I just finished ["Girls invented punk"](https://github.com/BarbaraMoran/girls-invented-punk), a website about the pioneer women of punk where you can learn by playing.<br>
-📚 I'm currently improving my JS skills and Learning Java.<br>
+📚 I'm currently improving my JS skills and learning Java.<br>
 🔨 I'm currently working on my portfolio.
 
 #### Technologies: 
